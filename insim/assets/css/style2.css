@@ -1,0 +1,69 @@
+.insc-container1 {
+    width: 100vw;
+    margin: 0 auto;
+    padding-top: 3rem;
+}
+.insc-container1 .insc-form2 {
+    width:60%;
+    margin: 0 auto;
+   margin-bottom: 5rem;
+}
+.insc-container1 .insc-form2 .row .col-lg-6 .form-group .input-group .insc-lab2,.insc-container1 .insc-form2 .row .col-lg-12 .form-group .input-group .insc-lab2 {
+    font-size: 1.1rem;
+
+}
+.insc-container1 .insc-form2 .row .col-lg-6 .form-group .input-group .insc-date2,.insc-container1 .insc-form2 .row .col-lg-12 .form-group .input-group .insc-date2 {
+    top: 1.2rem;
+}
+.insc-container1 .insc-form2 .row .insc-choic2 {
+    padding-bottom:2rem;
+}
+
+.insc-container1 .insc-form2 .row  .insc-select2 {
+    /* border-width: 0 0 10px 0; */
+	/* border-color:rgba(0,0,0,0); */
+	padding:10px 0;
+    width: 100%;
+}
+.insc-container1 .insc-form2 .row .col-lg-12 .form-group .input-group .select-niv2 {
+    border: none;
+}
+
+.insc-container1 .insc-form2 .row .insc-btn2 {
+    top: 2rem;
+}
+.insc-container1 .insc-form2 .row .col-lg-6 .form-group .input-group .textfield:not(.is-dirty)::-wedkit-datetime-edit {
+
+    color: transparent;
+
+}
+.insc-container1 .insc-form2 .row .col-lg-6 .form-group .input-group .textfield:focus::-webkite-datetime-edit {
+    color: black !important;
+}
+.content-block .content-inner .container .row .col-lg-4 .ac-box2 {
+    border-radius: 10px;
+}
+.content-block .content-inner .container .row .col-lg-4 .ac-box2 .ac-hd-box2 {
+    background-color: #f7b205;
+    border-radius: 10px;
+    height: 20vh;
+    padding-left: 1.5rem;
+}
+.content-block .content-inner .container .row .col-lg-4 .ac-box2 .ac-hd-box2 h3 {
+    padding: 1rem 0 1rem 0;
+    font-size: 1.4rem;
+    margin: 0;
+    text-transform: capitalize;
+    font-weight: 500;
+}
+.content-block .content-inner .container .row .col-lg-4 .ac-box2 .ac-hd-box2 .span2 {
+    padding-bottom: 1rem;
+}
+.content-block .content-inner .container .row .col-lg-4 .ac-box2 .ac-hd-box2 .span2 span{
+ display: block;
+ 
+}
+.content-block .content-inner .container .row .col-lg-4 .ac-box2 .ac-hd-box2 .info-bx p {
+    font-size: 0.2rem;
+}
+
